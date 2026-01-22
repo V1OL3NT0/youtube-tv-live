@@ -1,3 +1,9 @@
+- name: Build Debug APK
+  run: |
+    chmod +x gradlew
+    ./gradlew assembleDebug
+
+
 name: Build Android APK
 
 on:
