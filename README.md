@@ -22,3 +22,33 @@ linear TV-like experience using public YouTube channels.
 ## Legal
 This project does not download, redistribute, or rehost YouTube content.
 All playback is done using the official YouTube player.
+
+🎯 PROJECT GOAL
+Anyone can edit it.
+
+The goal of this project is to be simple, transparent, and accessible to everyone.
+
+👉 “I want to change the channels”
+
+How to do it:
+
+Open the config.py file
+
+Paste the new YouTube @channels
+
+Save the file
+
+Done ✅
+
+🚫 No advanced knowledge required
+🚫 No complex panels
+🚫 No databases
+🚫 No login system
+
+🛠️ SIMPLE & TRANSPARENT CONFIGURATION
+
+Videos are streamed directly from YouTube
+
+Supports long videos and live streams
+
+Changing the channel list completely updates the programming
